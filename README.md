@@ -13,7 +13,7 @@ This kind of chaos dynamic is strongly related to the initial setting.
 The small change in initial condition contributes significantly in the movement later. This phenomenon is called "Butterfly phenomenon"
 
 ## Calculation
-![Lagrangian](lagrangian.png)
+![Lagrangian](lagrangian.gif)
 
 ２重振り子は２個目の振り子が不規則的に動くことから、原点を中心としたデカルト座標系で考えるのは難しいと思います。
 そのような系ではスカラーであるラグランジアンを用います。
